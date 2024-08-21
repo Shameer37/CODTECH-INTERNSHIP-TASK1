@@ -1,10 +1,10 @@
-# CODTECH-INTERNSHIP-TASK1
-**Name:** NITTURU SHAMEER
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT08DS5957
-**Domain:** ARTIFICIAL INTELLIGENCE
-**Duration:** August to September 2024
-**Mentor:** MUZAMMIL AHMED
+# CODTECH-INTERNSHIP-TASK1-
+**Name:** NITTURU SHAMEER-
+**Company:** CODTECH IT SOLUTIONS-
+**ID:** CT08DS5957-
+**Domain:** ARTIFICIAL INTELLIGENCE-
+**Duration:** August to September 2024-
+**Mentor:** MUZAMMIL AHMED-
 
 ## Overview of the Project
 
