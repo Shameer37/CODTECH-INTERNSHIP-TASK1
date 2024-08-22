@@ -25,3 +25,7 @@ The objective of this project is implementing and training an Reinforcement Lear
 - **NumPy** : numpy is used for numerical operations, particularly for handling arrays and performing calculations like updating the Q-table.
 - **Matplotlib** : matplotlib is used for rendering and displaying images of the game environment. It helps in visualizing the agent’s actions and states.
 - **IPython** : IPython.display is used for clearing output and dynamically displaying images in Jupyter Notebooks.
+
+
+
+
