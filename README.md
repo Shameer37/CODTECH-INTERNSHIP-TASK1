@@ -26,6 +26,8 @@ The objective of this project is implementing and training an Reinforcement Lear
 - **Matplotlib** : matplotlib is used for rendering and displaying images of the game environment. It helps in visualizing the agent’s actions and states.
 - **IPython** : IPython.display is used for clearing output and dynamically displaying images in Jupyter Notebooks.
 
+### Output 
+"C:\Users\shame\Pictures\Screenshots\CODTECH INTERSHIP TASK1.png"
 
 
 
